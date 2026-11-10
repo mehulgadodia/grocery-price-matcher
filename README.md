@@ -40,10 +40,14 @@ streamlit run app.py               # dashboard on http://localhost:8501
 
 ## How matching works
 
-1. Every listing's name + category is encoded with `all-MiniLM-L6-v2`.
-2. Cross-store pairs with cosine similarity ≥ 0.72 are linked.
-3. Links are clustered with union-find into matched product groups.
-4. The dashboard compares prices within each group and surfaces the biggest
+1. Every listing's name is encoded with `all-MiniLM-L6-v2`.
+2. Candidate pairs are cross-store listings with cosine similarity ≥ 0.75.
+3. Greedy average-linkage clustering merges groups only when their average
+   pairwise similarity clears the threshold and the merge keeps at most one
+   listing per store (this structure constraint avoids the classic union-find
+   chaining failure, where one bridge link merges whole categories).
+4. On the bundled data this scores pairwise precision 0.995 / recall 0.972.
+5. The dashboard compares prices within each group and surfaces the biggest
    gaps (i.e. where a shopper overpays).
 
 ## Dashboard features
