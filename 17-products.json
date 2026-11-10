@@ -1,0 +1,856 @@
+[
+  {
+    "id": "3168930010265",
+    "name": "cruesly m\u00e9lange de noix",
+    "brand": "Cruesli",
+    "quantity": "450 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3229820160672",
+    "name": "Croustillant Chocolat",
+    "brand": "Bjorg",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3229820019307",
+    "name": "Flocons d'avoine",
+    "brand": "Bjorg",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3229820129488",
+    "name": "muesli raisin,datte,figue",
+    "brand": "Bjorg",
+    "quantity": "375 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3387390123210",
+    "name": "Chocapic",
+    "brand": "Nestl\u00e9",
+    "quantity": "375 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "5010477348678",
+    "name": "Special Muesli 30% fruits & noix",
+    "brand": "The Jordans & Ryvita Company Limited - A Division of ABF Grain Products Limited",
+    "quantity": "750 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3229820782560",
+    "name": "Muesli Superfruits Raisins, cassis, cranberry, myrtille",
+    "brand": "Bjorg",
+    "quantity": "375 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "7613036669146",
+    "name": "NESTLE CHOCAPIC BIO C\u00e9r\u00e9ales - Boite de 375g",
+    "brand": "Nestl\u00e9",
+    "quantity": "375 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "5010029000023",
+    "name": "Original",
+    "brand": "Weetabix",
+    "quantity": "430 gram",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "5010477348357",
+    "name": "Country Crisp 4 noix",
+    "brand": "Jordans",
+    "quantity": "550 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8410076610737",
+    "name": "Barre de c\u00e9r\u00e9ales prot\u00e9in\u00e9s",
+    "brand": "Nature Valley",
+    "quantity": "160g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3229820769165",
+    "name": "Muesli avoine chocolat bio",
+    "brand": "Bjorg",
+    "quantity": "375 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3159470000120",
+    "name": "CORN FLAKES",
+    "brand": "KELLOGG S PRODUITS ALIMENT SAS",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3168930010906",
+    "name": "Cruesli Chocolat noir",
+    "brand": "PEPSICO FRANCE",
+    "quantity": "450 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3168930009078",
+    "name": "Flocons d'avoine compl\u00e8te",
+    "brand": "Quaker",
+    "quantity": "550 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "5010477348630",
+    "name": "Muesli 36% fruits noix & graines",
+    "brand": "The Jordans & Ryvita Company Limited - A Division of ABF Grain Products Limited",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3168930009795",
+    "name": "Muesli Croustillant Noix de p\u00e9can & noix du Br\u00e9sil",
+    "brand": "PEPSICO FRANCE",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "7613035449626",
+    "name": "NESTLE CHOCAPIC C\u00e9r\u00e9ales 645g",
+    "brand": "Nestl\u00e9",
+    "quantity": "645 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "5010477348395",
+    "name": "Country Crisp - Chocolat noir 70% cacao",
+    "brand": "Jordans",
+    "quantity": "550 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "5010477348517",
+    "name": "Country Crisp 4 Baies",
+    "brand": "Jordans",
+    "quantity": "550 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3229820798110",
+    "name": "Granola Chocolat",
+    "brand": "Bjorg",
+    "quantity": "350 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3229820797861",
+    "name": "Croustillant 3 noix",
+    "brand": "Bjorg",
+    "quantity": "450 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "4008713713411",
+    "name": "Copos de avena extra suaves",
+    "brand": "H. & J. Br\u00fcggen KG",
+    "quantity": "800 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "5059319023762",
+    "name": "Miel Pops",
+    "brand": "KELLOG'S",
+    "quantity": "330g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3046920029759",
+    "name": "Excellence Noir Prodigieux 90% Cacao",
+    "brand": "Lindt",
+    "quantity": "100g",
+    "category": "snacks"
+  },
+  {
+    "id": "3046920022651",
+    "name": "Noir Intense",
+    "brand": "Lindt",
+    "quantity": "100 g",
+    "category": "fermented-foods"
+  },
+  {
+    "id": "3046920022606",
+    "name": "Excellence 85% cacao",
+    "brand": "Lindt",
+    "quantity": "100g",
+    "category": "snacks"
+  },
+  {
+    "id": "20995553",
+    "name": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 85% \u043a\u0430\u043a\u0430\u043e\u0432\u0430 \u043c\u0430\u0441\u0430",
+    "brand": "J.D: Gross",
+    "quantity": "125 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3046920029780",
+    "name": "Excellence Noir Subtil Doux 70% Cacao",
+    "brand": "Lindt",
+    "quantity": "100 g",
+    "category": "snacks"
+  },
+  {
+    "id": "8425197712024",
+    "name": "Chocolate con leche y almendras",
+    "brand": "CHOCOLATES MARUJA S.L.",
+    "quantity": "150 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3046920028363",
+    "name": "Excellence 85% Cacao Rich Dark",
+    "brand": "Lindt",
+    "quantity": "100g",
+    "category": "snacks"
+  },
+  {
+    "id": "20022464",
+    "name": "Extra Dark 74% Cocoa",
+    "brand": "carr\u00e9 fin Lidl",
+    "quantity": "g",
+    "category": "snacks"
+  },
+  {
+    "id": "7613035040823",
+    "name": "Nestl\u00e9 dessert Noir",
+    "brand": "Nestl\u00e9",
+    "quantity": "205g",
+    "category": "desserts"
+  },
+  {
+    "id": "3046920010047",
+    "name": "Cioccolato Fondente 78%",
+    "brand": "LINDT EXCELLENCE",
+    "quantity": "100g",
+    "category": "snacks"
+  },
+  {
+    "id": "3046920028004",
+    "name": "Excellence 70% Cocoa Intense Dark",
+    "brand": "Lindt",
+    "quantity": "100 g",
+    "category": "snacks"
+  },
+  {
+    "id": "20095291",
+    "name": "Cioccolato fondente",
+    "brand": "J. D. Gross (Lidl)",
+    "quantity": "125.0 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3045140105502",
+    "name": "Chocolat au lait du pays alpin Milka",
+    "brand": "Milka",
+    "quantity": "100 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3046920028721",
+    "name": "Dark absolute 99% cacao",
+    "brand": "LINDT SPRUNGLI SAS",
+    "quantity": "50 g",
+    "category": "snacks"
+  },
+  {
+    "id": "40896243",
+    "name": "Buo Cioccolato Fondente 70%",
+    "brand": "",
+    "quantity": "100g",
+    "category": "snacks"
+  },
+  {
+    "id": "3700214611548",
+    "name": "Noir equitable 85% P\u00e9rou",
+    "brand": "Alter Eco",
+    "quantity": "100 g e",
+    "category": "snacks"
+  },
+  {
+    "id": "7622210995087",
+    "name": "chocolat noir noisettes entieres",
+    "brand": "C\u00f4te d'Or",
+    "quantity": "180 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3046920027885",
+    "name": "Excellence Noir \u00e0 la Pointe de Fleur de Sel",
+    "brand": "Lindt EXCELLENCE",
+    "quantity": "100 g (10 carr\u00e9s)",
+    "category": "snacks"
+  },
+  {
+    "id": "3760091722508",
+    "name": "Chocolat noir 85% Madagascar",
+    "brand": "Ethiquable",
+    "quantity": "100 g",
+    "category": "snacks"
+  },
+  {
+    "id": "20713713",
+    "name": "Chocolat noir Equateur Bio",
+    "brand": "J.D: Gross",
+    "quantity": "100 g",
+    "category": "snacks"
+  },
+  {
+    "id": "7622400006753",
+    "name": "Noir 70% Intense",
+    "brand": "C\u00f4te d'Or",
+    "quantity": "100 gram",
+    "category": "snacks"
+  },
+  {
+    "id": "3046920021043",
+    "name": "Noir intense dessert 70%",
+    "brand": "Lindt",
+    "quantity": "200 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3046920029681",
+    "name": "Excellence Noir D\u00e9licat Doux 85% Cacao",
+    "brand": "LINDT EXCELLENCE",
+    "quantity": "100g",
+    "category": "snacks"
+  },
+  {
+    "id": "4056489471264",
+    "name": "Edelbitter Mild 90%",
+    "brand": "J.D: Gross",
+    "quantity": "125.0 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3046920016377",
+    "name": "100% Cacao",
+    "brand": "Lindt",
+    "quantity": "50 g",
+    "category": "snacks"
+  },
+  {
+    "id": "7622210449283",
+    "name": "Prince",
+    "brand": "LU",
+    "quantity": "300 g \u212e",
+    "category": "snacks"
+  },
+  {
+    "id": "3175680011480",
+    "name": "S\u00e9same",
+    "brand": "Gerbl\u00e9",
+    "quantity": "230 g",
+    "category": "snacks"
+  },
+  {
+    "id": "6111031005064",
+    "name": "Tonik",
+    "brand": "Tonik",
+    "quantity": "23 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3229820100234",
+    "name": "Fourr\u00e9s Chocolat Noir",
+    "brand": "Bjorg",
+    "quantity": "225 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3175681851849",
+    "name": "Pomme Noisette",
+    "brand": "Gerbl\u00e9",
+    "quantity": "230 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3251490332080",
+    "name": "figues et son",
+    "brand": "Gerbl\u00e9",
+    "quantity": "210 g",
+    "category": "snacks"
+  },
+  {
+    "id": "8410376009392",
+    "name": "gullon fibre zero sugar free",
+    "brand": "GALLETAS GULLON S.A.",
+    "quantity": "170 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3175681851856",
+    "name": "Biscuit raisins",
+    "brand": "Gerbl\u00e9",
+    "quantity": "270 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3362600011044",
+    "name": "Henry\u2019s",
+    "brand": "Henry's",
+    "quantity": "42g",
+    "category": "snacks"
+  },
+  {
+    "id": "3229820794525",
+    "name": "Avoine chocolat",
+    "brand": "Bjorg",
+    "quantity": "130 g",
+    "category": "snacks"
+  },
+  {
+    "id": "8000500310427",
+    "name": "Biscuits NUTELLA Biscuits Noisettes et Cacao x22 - 304g",
+    "brand": "Ferrero Technical Services Srl",
+    "quantity": "304 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3175681066632",
+    "name": "Biscuits pavot citron",
+    "brand": "Gerbl\u00e9",
+    "quantity": "200 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3175681851863",
+    "name": "Biscuits Soja Figue",
+    "brand": "Gerbl\u00e9",
+    "quantity": "270 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3362600011228",
+    "name": "Sable coco Henry s 42g",
+    "brand": "Henry's",
+    "quantity": "42g",
+    "category": "snacks"
+  },
+  {
+    "id": "3175680011534",
+    "name": "Biscuit lait chocolat",
+    "brand": "Gerbl\u00e9",
+    "quantity": "230 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3229820021027",
+    "name": "P'tit Nature Complet",
+    "brand": "Bjorg",
+    "quantity": "200 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3175681105423",
+    "name": "Cookie cacao p\u00e9pites Sans Sucre",
+    "brand": "Gerbl\u00e9",
+    "quantity": "130 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3251490307002",
+    "name": "Go\u00fbter p\u00e9pites de chocolat",
+    "brand": "Gerbl\u00e9",
+    "quantity": "250 g",
+    "category": "snacks"
+  },
+  {
+    "id": "5000168198491",
+    "name": "Sabl\u00e9s Anglais L'Original",
+    "brand": "McVitie's",
+    "quantity": "400 g",
+    "category": "snacks"
+  },
+  {
+    "id": "7622210601988",
+    "name": "Granola L'Original",
+    "brand": "LU",
+    "quantity": "200 g e",
+    "category": "snacks"
+  },
+  {
+    "id": "6111259343108",
+    "name": "KING COOKIES",
+    "brand": "Excelo",
+    "quantity": "",
+    "category": "snacks"
+  },
+  {
+    "id": "3251490320001",
+    "name": "Biscuit complet au germe de bl\u00e9",
+    "brand": "Gerbl\u00e9",
+    "quantity": "210 g",
+    "category": "snacks"
+  },
+  {
+    "id": "7622201133337",
+    "name": "Figolu",
+    "brand": "LU",
+    "quantity": "192 g (12 x 16 g)",
+    "category": "snacks"
+  },
+  {
+    "id": "3229820181950",
+    "name": "Fourr\u00e9s Chocolat au Lait",
+    "brand": "Bjorg",
+    "quantity": "225 g",
+    "category": "snacks"
+  },
+  {
+    "id": "3362600011006",
+    "name": "Henry's Petit Surfin",
+    "brand": "Henry's",
+    "quantity": "85 g",
+    "category": "snacks"
+  },
+  {
+    "id": "5449000147417",
+    "name": "Cappy PULPY",
+    "brand": "Cappy",
+    "quantity": "1 L",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "5411188112709",
+    "name": "Ger\u00f6stete Mandel Ohne Zucker",
+    "brand": "alpro",
+    "quantity": "1 l",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "3168930163480",
+    "name": "Alvalle Gazpacho l'original",
+    "brand": "ALVALL\u00e9",
+    "quantity": "1L",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "5411188124689",
+    "name": "Oat No Sugars",
+    "brand": "Danone Belux nv",
+    "quantity": "1l",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "3229820787015",
+    "name": "Amande sans sucres",
+    "brand": "Bjorg",
+    "quantity": "1 l",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "3229820792132",
+    "name": "Avoine",
+    "brand": "Bjorg",
+    "quantity": "1l",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "5411188110835",
+    "name": "Alpro Mandeldrink, Original 1L",
+    "brand": "Danone Belux nv",
+    "quantity": "1 L",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "3033710073467",
+    "name": "Chicor\u00e9e & Caf\u00e9, RICOR\u00c9\u00ae L'Original, Bo\u00eete de 100g",
+    "brand": "Nestl\u00e9",
+    "quantity": "100 g",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "5411188115366",
+    "name": "Alpro smooth subtle creamy oat",
+    "brand": "alpro",
+    "quantity": "1 L",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "6923818812082",
+    "name": "Green Tea",
+    "brand": "green tea",
+    "quantity": "200 g",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "7613035676497",
+    "name": "Chicor\u00e9e & Caf\u00e9, RICOR\u00c9\u00ae L'Original, Bo\u00eete de 260g",
+    "brand": "Nestl\u00e9",
+    "quantity": "260 g",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "3067140013120",
+    "name": "Chicor\u00e9e soluble nature",
+    "brand": "LEROUX",
+    "quantity": "200 g",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "4056489346357",
+    "name": "Boisson \u00e0 l'amande, sans sucres",
+    "brand": "Vemondo",
+    "quantity": "1l",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "3229820787008",
+    "name": "Lait d'amande",
+    "brand": "Bjorg",
+    "quantity": "1 L",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "5411188116592",
+    "name": "Coconut",
+    "brand": "alpro",
+    "quantity": "1l",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "8886303210238",
+    "name": "Lait de coco",
+    "brand": "Kara",
+    "quantity": "200g",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "6111266962910",
+    "name": "press up jaouda petit orange",
+    "brand": "jaouda",
+    "quantity": "230",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "6111242104198",
+    "name": "\u0628\u0631\u0633 \u0627\u0628 \u0627\u0644\u062e\u0648\u062e \u062c\u0648\u062f\u0629 1\u0644\u062a\u0631",
+    "brand": "jaouda",
+    "quantity": "950g",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "3664346305990",
+    "name": "Grand Ar\u00f4me 32% de Cacao",
+    "brand": "Poulain",
+    "quantity": "450 g",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "6111175000741",
+    "name": "\u0642\u0647\u0648\u0629 \u0627\u0644\u0637\u0628\u064a\u0628",
+    "brand": "\u0642\u0647\u0648\u0629 \u062f\u0648\u0628\u0648\u0627",
+    "quantity": "",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "3124480186560",
+    "name": "33CL CAN SLIM TROPICAL",
+    "brand": "Oasis",
+    "quantity": "33 cl",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "4056489028109",
+    "name": "Shot de gingembre bio",
+    "brand": "LIDL",
+    "quantity": "1ml",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "3229820801087",
+    "name": "Avoine sans sucres",
+    "brand": "Bjorg",
+    "quantity": "1 L",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "6111242107366",
+    "name": "Press Up moyen",
+    "brand": "Jaouda",
+    "quantity": "420",
+    "category": "beverages-and-beverages-preparations"
+  },
+  {
+    "id": "3240931548111",
+    "name": "Gnocchi \u00e0 po\u00ealer",
+    "brand": "Lustucru",
+    "quantity": "325 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3240931548135",
+    "name": "Lustucru gnocchi a po\u00ealer format xxl 720g",
+    "brand": "Lustucru",
+    "quantity": "720 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8076800195057",
+    "name": "Spaghetti N\u00ba5",
+    "brand": "Barilla",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3240931548128",
+    "name": "Lustucru gnocchi a po\u00ealer 520g",
+    "brand": "Lustucru",
+    "quantity": "520 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8076809529433",
+    "name": "Whole Wheat Penne Rigate",
+    "brand": "Barilla",
+    "quantity": "500g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "5285000396437",
+    "name": "Nouilles Instantan\u00e9es Go\u00fbt Boeuf",
+    "brand": "indomie",
+    "quantity": "70g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8852018101024",
+    "name": "Instant Noedels Kipsmaak",
+    "brand": "YumYum",
+    "quantity": "60g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8076802085738",
+    "name": "Rigatoni Penne Rigate N\u00ba73",
+    "brand": "Barilla",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8076800376999",
+    "name": "Lasagne all'uovo",
+    "brand": "Barilla",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3175681170841",
+    "name": "Ravioli au tofu, tomates, basilic",
+    "brand": "C\u00e9r\u00e9ales bio",
+    "quantity": "267 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8076802085981",
+    "name": "Nudeln Fusilli",
+    "brand": "Barilla",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8001665726580",
+    "name": "Ricotta & \u00c9pinards",
+    "brand": "Giovanni Rana",
+    "quantity": "250 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3240931547213",
+    "name": "Gnocchi aux pommes de terre",
+    "brand": "Lustucru",
+    "quantity": "390 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8076809529419",
+    "name": "P\u00e2tes spaghetti au bl\u00e9 complet integral 500g",
+    "brand": "Barilla",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3478820600651",
+    "name": "spaghetti au quinoa ail et persil",
+    "brand": "Jardin Bio \u00e9tic",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3175681259089",
+    "name": "c\u00e9r\u00e9ales et l\u00e9gumes, fa\u00e7on pad tha\u00ef, bio",
+    "brand": "C\u00e9r\u00e9al Bio",
+    "quantity": "220g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8001665725712",
+    "name": "Girasoli Pesto basilic et pignons",
+    "brand": "Giovanni Rana",
+    "quantity": "250 g e",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "0089686120073",
+    "name": "Indomie instant noodles baladi chicken flavor",
+    "brand": "indomie",
+    "quantity": "70g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8076809545440",
+    "name": "Spaghetti senza glutine mais riso",
+    "brand": "Barilla",
+    "quantity": "400g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8076800105056",
+    "name": "P\u00e2tes spaghetti n\u00b05 1kg",
+    "brand": "Barilla",
+    "quantity": "1 kg",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3240931545264",
+    "name": "GIRASOLI RICOTTA EPINARD",
+    "brand": "Lustucru",
+    "quantity": "250 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8076800105735",
+    "name": "Penne Rigate",
+    "brand": "Barilla",
+    "quantity": "1000g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "3252971595857",
+    "name": "Les Crozets au Sarrasin",
+    "brand": "Alpina Savoie",
+    "quantity": "400 g",
+    "category": "plant-based-foods-and-beverages"
+  },
+  {
+    "id": "8076809523509",
+    "name": "P\u00e2tes linguine collezione 500g",
+    "brand": "Barilla",
+    "quantity": "500 g",
+    "category": "plant-based-foods-and-beverages"
+  }
+]
